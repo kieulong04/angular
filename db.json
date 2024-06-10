@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 3",
+      "price": 300,
+      "description": "description 3",
+      "imageURL": "https://via.placeholder.com/150"
+    },
+    {
+      "name": "cho",
+      "price": "4500",
+      "imageURL": "https://via.placeholder.com/150",
+      "description": "không",
+      "id": 2
+    },
+    {
+      "name": "cho",
+      "price": "4500",
+      "imageURL": "https://via.placeholder.com/150",
+      "description": "không",
+      "id": 3
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<form  #productService="ngForm" (submit)="onhandAdd(productService)" >
+    <input type="text" ngModel name="name" placeholder="ProductName" >
+    <input type="text" ngModel name="price" placeholder="ProductPrice" >
+    <input type="text" ngModel name="imageURL" placeholder="ProductimageURL" >
+    <input type="text" ngModel name="description" placeholder="ProductDescription" >
+    <button type="submit">Submit</button>
+</form>
